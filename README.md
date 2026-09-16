@@ -42,10 +42,7 @@ First Class Honours Computer Science graduate specialising in **Network Engineer
 
 | Project | Description |
 |---------|-------------|
-| **[SDN-Based Automated VLAN Management](#)** | Software-defined networking system automating VLAN management and security-policy enforcement. Achieved 89.5% latency reduction, 99.1% jitter reduction, and zero packet loss on authorised flows. |
-| **[Cisco Networking & Security Labs](#)** | Hands-on labs: AAA (RADIUS/TACACS+), IPSec site-to-site VPN, GRE tunnelling, and enterprise VLAN configuration. |
-
-*(Links will point to the repositories once they are published.)*
+| **[SDN-Based Automated VLAN Management](https://github.com/Louis-Honore-LOUA/sdn-automated-vlan-management)** | Software-defined networking system automating VLAN management and security-policy enforcement, validated on real Cisco hardware. Achieved 89.5% latency reduction, 99.1% jitter reduction, and zero packet loss on authorised flows. |
 
 ---
 
@@ -53,6 +50,7 @@ First Class Honours Computer Science graduate specialising in **Network Engineer
 
 - 📧 **Email:** louishonoreloua2026@gmail.com
 - 📱 **Phone:** +250 795 050 445
+- 💻 **GitHub:** [github.com/Louis-Honore-LOUA](https://github.com/Louis-Honore-LOUA)
 - 💼 **LinkedIn:** *(coming soon)*
 - 📍 **Location:** Musanze, Rwanda
 
