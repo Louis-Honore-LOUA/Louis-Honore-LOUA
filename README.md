@@ -1,16 +1,61 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Louis Honoré LOUA 👋</h1>
+<h3 align="center">Network Engineer | Routing, Switching & Network Security</h3>
 
-<!--
-**Louis-Honore-LOUA/Louis-Honore-LOUA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/SDN-OpenFlow-2E5AAC?style=flat" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Network%20Security-1F3864?style=flat&logo=wireshark&logoColor=white" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 About Me
+
+First Class Honours Computer Science graduate specialising in **Network Engineering**, with hands-on experience configuring and securing Cisco routing and switching environments on real hardware. I design, deploy and secure reliable enterprise networks, and I'm passionate about **Software-Defined Networking (SDN)** and **cybersecurity**.
+
+- 🎓 BSc in Computer Science (Network Engineering) — INES-Ruhengeri, Rwanda
+- 🏆 Author of an award-winning SDN dissertation (graded 19.5/20 — highest university-wide)
+- 🔐 Building toward a Master's in **Cybersecurity**
+- 📍 Based in Musanze, Rwanda
+
+---
+
+### 🛠️ Technical Skills
+
+**Routing & Switching**
+`Cisco IOS` · `VLANs (802.1Q)` · `Inter-VLAN Routing` · `Subnetting/VLSM` · `Static & Dynamic Routing`
+
+**Network Security**
+`ACLs` · `AAA (RADIUS / TACACS+)` · `IPSec VPN` · `GRE Tunnelling` · `Traffic Isolation`
+
+**SDN & Automation**
+`Software-Defined Networking` · `OpenFlow` · `Ryu Controller` · `Open vSwitch` · `Mininet`
+
+**Systems & Scripting**
+`Linux` · `Python` · `C` · `C++` · `PowerShell`
+
+---
+
+### 📌 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| **[SDN-Based Automated VLAN Management](#)** | Software-defined networking system automating VLAN management and security-policy enforcement. Achieved 89.5% latency reduction, 99.1% jitter reduction, and zero packet loss on authorised flows. |
+| **[Cisco Networking & Security Labs](#)** | Hands-on labs: AAA (RADIUS/TACACS+), IPSec site-to-site VPN, GRE tunnelling, and enterprise VLAN configuration. |
+
+*(Links will point to the repositories once they are published.)*
+
+---
+
+### 📫 Contact
+
+- 📧 **Email:** louishonoreloua2026@gmail.com
+- 📱 **Phone:** +250 795 050 445
+- 💼 **LinkedIn:** *(coming soon)*
+- 📍 **Location:** Musanze, Rwanda
+
+---
+
+<p align="center"><i>Open to Network Engineer roles and cybersecurity opportunities.</i></p>
