@@ -9,6 +9,12 @@
   <img src="https://img.shields.io/badge/Network%20Security-1F3864?style=flat&logo=wireshark&logoColor=white" />
 </p>
 
+<p align="center">
+  <a href="https://louis-honore-loua.github.io"><b>🌐 Portfolio</b></a> ·
+  <a href="https://linkedin.com/in/louis-honore-loua"><b>LinkedIn</b></a> ·
+  <a href="mailto:louishonoreloua2026@gmail.com"><b>Email</b></a>
+</p>
+
 ---
 
 ### 🌐 About Me
@@ -43,15 +49,17 @@ First Class Honours Computer Science graduate specialising in **Network Engineer
 | Project | Description |
 |---------|-------------|
 | **[SDN-Based Automated VLAN Management](https://github.com/Louis-Honore-LOUA/sdn-automated-vlan-management)** | Software-defined networking system automating VLAN management and security-policy enforcement, validated on real Cisco hardware. Achieved 89.5% latency reduction, 99.1% jitter reduction, and zero packet loss on authorised flows. |
+| **[Personal Portfolio](https://louis-honore-loua.github.io)** | My portfolio website presenting my background, skills, and networking projects. |
 
 ---
 
 ### 📫 Contact
 
+- 🌐 **Portfolio:** [louis-honore-loua.github.io](https://louis-honore-loua.github.io)
 - 📧 **Email:** louishonoreloua2026@gmail.com
 - 📱 **Phone:** +250 795 050 445
 - 💻 **GitHub:** [github.com/Louis-Honore-LOUA](https://github.com/Louis-Honore-LOUA)
-- 💼 **LinkedIn:** *(coming soon)*
+- 💼 **LinkedIn:** [linkedin.com/in/louis-honore-loua](https://linkedin.com/in/louis-honore-loua)
 - 📍 **Location:** Musanze, Rwanda
 
 ---
