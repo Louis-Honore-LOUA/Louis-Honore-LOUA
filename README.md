@@ -31,10 +31,10 @@ First Class Honours Computer Science graduate specialising in **Network Engineer
 ### 🛠️ Technical Skills
 
 **Routing & Switching**
-`Cisco IOS` · `VLANs (802.1Q)` · `Inter-VLAN Routing` · `Subnetting/VLSM` · `Static & Dynamic Routing`
+`Cisco IOS` · `VLANs (802.1Q)` · `Inter-VLAN Routing` · `Subnetting/VLSM` · `Static Routing` · `OSPF`
 
 **Network Security**
-`ACLs` · `AAA (RADIUS / TACACS+)` · `IPSec VPN` · `GRE Tunnelling` · `Traffic Isolation`
+`ACLs` · `AAA (RADIUS / TACACS+)` · `IPSec VPN` · `GRE Tunnelling` · `Traffic Isolation` · `Applied Cryptography`
 
 **SDN & Automation**
 `Software-Defined Networking` · `OpenFlow` · `Ryu Controller` · `Open vSwitch` · `Mininet`
@@ -44,12 +44,28 @@ First Class Honours Computer Science graduate specialising in **Network Engineer
 
 ---
 
-### 📌 Featured Projects
+### 📌 Projects
+
+#### 🔹 Software-Defined Networking
 
 | Project | Description |
 |---------|-------------|
-| **[SDN-Based Automated VLAN Management](https://github.com/Louis-Honore-LOUA/sdn-automated-vlan-management)** | Software-defined networking system automating VLAN management and security-policy enforcement, validated on real Cisco hardware. Achieved 89.5% latency reduction, 99.1% jitter reduction, and zero packet loss on authorised flows. |
-| **[Personal Portfolio](https://louis-honore-loua.github.io)** | My portfolio website presenting my background, skills, and networking projects. |
+| **[SDN-Based Automated VLAN Management](https://github.com/Louis-Honore-LOUA/sdn-automated-vlan-management)** | Undergraduate dissertation. Ryu/OpenFlow controller automating VLAN management and directional security-policy enforcement across a campus network, validated on real Cisco hardware. **89.5% latency reduction, 99.1% jitter reduction, zero packet loss** on authorised flows. Graded 19.5/20. |
+
+#### 🔹 Security & Cryptography
+
+| Project | Description |
+|---------|-------------|
+| **[Multi-Layer Cipher Engine](https://github.com/Louis-Honore-LOUA/multi-layer-cipher-engine)** | Python engine chaining seven classical ciphers (Rail Fence → Caesar → Monoalphabetic → Playfair → Hill → Vigenère → Row Transposition) with a fully lossless inverse pipeline that recovers punctuation, casing and the I/J merge exactly. Desktop GUI + test suite. |
+| **[IPSec Site-to-Site VPN](https://github.com/Louis-Honore-LOUA/cisco-ipsec-site-to-site-vpn)** | Encrypted tunnel between HQ and a branch office across an untrusted ISP backbone. IKE Phase 1/2, 3DES + MD5, crypto maps and interesting-traffic ACLs — with traceroute proof that the ISP hops are hidden. |
+| **[AAA — RADIUS and TACACS+](https://github.com/Louis-Honore-LOUA/cisco-aaa-radius-tacacs)** | Centralised device-access control deployed with both protocols side by side on the same network, so the practical differences between RADIUS and TACACS+ are visible in one topology. |
+
+#### 🔹 WAN & Routing
+
+| Project | Description |
+|---------|-------------|
+| **[GRE WAN Tunnelling](https://github.com/Louis-Honore-LOUA/cisco-gre-wan-tunnelling)** | Full-mesh GRE overlay linking three sites across a provider backbone that carries no route to their private LANs. Covers tunnel MTU sizing and the underlay/overlay routing split. |
+| **[Multi-Site WAN Network](https://github.com/Louis-Honore-LOUA/cisco-wan-multisite-network)** | Bank branch network across Rwanda — 10 Cisco 2911 routers, HQ plus 9 regional branches, VLSM addressing, static routing with OSPF, and ACL-based security. |
 
 ---
 
